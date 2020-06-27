@@ -1,0 +1,9 @@
+.box{
+	text-align: center;
+}
+#draggable{
+	width: 150px;
+	height: 150px;
+	padding: 10px;
+	background-color: #DDDDDD;
+}
